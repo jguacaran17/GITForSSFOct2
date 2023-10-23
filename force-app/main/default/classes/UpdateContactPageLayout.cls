@@ -12,7 +12,7 @@ public class UpdateContactPageLayout {
                 break;
             }
         }
-        // Add the field under Account info section in the left column 2
+        // Add the field under Account info section in the left column 2 
         List<Metadata.LayoutColumn> contactColumns = contactLayoutSection.layoutColumns;     
         List<Metadata.LayoutItem> contactLayoutItems = contactColumns.get(0).layoutItems;
         // Create a new layout item for the custom field
