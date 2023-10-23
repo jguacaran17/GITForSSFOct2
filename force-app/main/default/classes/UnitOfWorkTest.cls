@@ -1,6 +1,6 @@
 @IsTest
 private class UnitOfWorkTest {
-///prueba de mi segundo commit 
+///prueba de mi segundo commit rama2
     private static List<Schema.SObjectType> MY_SOBJECTS =
             new Schema.SObjectType[]{
                     Account.SObjectType,
